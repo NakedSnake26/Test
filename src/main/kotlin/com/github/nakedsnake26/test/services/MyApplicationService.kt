@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nakedsnake26.test.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nakedsnake26.test.MyBundle
 
 class MyApplicationService {
 
